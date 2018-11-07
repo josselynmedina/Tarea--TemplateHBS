@@ -1,0 +1,24 @@
+{
+  "name": "Tarea--TemplateHBS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josselynmedina/Tarea--TemplateHBS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josselynmedina/Tarea--TemplateHBS/issues"
+  },
+  "homepage": "https://github.com/josselynmedina/Tarea--TemplateHBS#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "handlebars": "^4.0.12"
+  }
+}
